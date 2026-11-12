@@ -100,7 +100,7 @@ function App() {
           <div className="profile">
             <div className="profile-avatar">SJ</div>
             <div>
-              <strong>Sivaiah J G</strong>
+              <strong>thirupathi</strong>
               <small>Administrator</small>
             </div>
             <span className="profile-menu">•••</span>
