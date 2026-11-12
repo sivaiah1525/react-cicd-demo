@@ -138,7 +138,7 @@ function App() {
           <section className="welcome-section">
             <div>
               <div className="date-label">THURSDAY, NOVEMBER 12, 2026</div>
-              <h1>{activePage === 'Dashboard' ? 'Good afternoon, Sivaiah 👋' : activePage}</h1>
+              <h1>{activePage === 'Dashboard' ? 'Good afternoon, thirupathi 👋' : activePage}</h1>
               <p>Here's what's happening with your company today.</p>
             </div>
             <button className="primary-btn" onClick={() => setShowModal(true)}>
